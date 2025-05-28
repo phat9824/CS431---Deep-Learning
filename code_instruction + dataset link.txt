@@ -1,0 +1,9 @@
+File name, mục đích
+ConvNeXt_v1: Mô hình ConvNeXt V1 sử dụng FCMAE là pretrain để finetune cho việc phân loại
+ConvNeXt_v2_classification: Mô hình ConvNeXt V2 load pretrain FCMAE và fine tune cho việc phân loại
+ConvNeXt_v2_FCMAE: Pretrain FCMAE sử dụng mô hình ConvNeXt V2
+ConvNeXt_v2_fcmae_remove_grn: Mô hình ConvNeXt V2 (loại bỏ GRN) load pretrain FCMAE và fine tune cho việc phân loại
+ConvNeXt_v2_supervised_learning: Mô hình ConvNeXt V2 chỉ sử dụng supervised learning để phân loại
+vit-mae: Mô hình ViT sử dụng MAE là pretrain để finetune cho việc phân loại 
+
+Link dataset: https://www.kaggle.com/datasets/hphat9824/vn-moto-dataset
